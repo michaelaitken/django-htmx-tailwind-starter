@@ -1,6 +1,6 @@
 # Django HTMX Tailwind Starter
 
-Welcome to the Django HTMX Tailwind Starter! This starter template is designed to help you kickstart your Django projects using HTMX and Tailwind CSS with minimal setup. By using this template, you can avoid the repetitive tasks of configuring Django to work with HTMX and Tailwind CSS for every new project.
+Just my personal kickstarter for Django projects with a sprinkle of HTMX and a dash of Tailwind CSS. 
 
 ## Prerequisites
 
@@ -63,15 +63,6 @@ npm run start
 
 This command concurrently runs Django's development server and the Tailwind CSS compiler in watch mode, allowing you to see changes in real-time.
 
-## Next Steps
-
-Now that your project is set up, you can start developing your Django application with HTMX and Tailwind CSS. Here are some suggestions for next steps:
-
-- Explore the Django project structure and customize it as needed.
-- Begin adding your models, views, and templates.
-- Utilize HTMX for adding dynamic, AJAX-like behavior to your Django templates.
-- Style your application with Tailwind CSS utility classes.
-
 ## Contributing
 
-Contributions to improve the starter template are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
+Contributions are welcome.
