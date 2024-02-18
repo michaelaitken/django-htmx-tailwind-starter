@@ -1,0 +1,12 @@
+# Python Environment
+.venv
+
+# Dev Node Modules
+node_modules
+
+# Python Cache
+src/**/__pycache__
+
+
+# (Uncomment) Git ignore file
+# .gitignore
